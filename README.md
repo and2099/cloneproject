@@ -20,7 +20,7 @@ chroot install debian linux
 8- senha do root, caso não mude antes de instalar (passwd root) ~> "rootroot"
 
 9- não esta bem explicado, mas pra bom entendedor meia palavra basta.
-- 
+
 10- Faça um bom proveito, por que eu fiz ;) 
 
 11- Sugestões criticas e colaborações são sempre bem vindas...
